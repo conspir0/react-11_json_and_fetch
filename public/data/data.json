@@ -1,0 +1,25 @@
+{
+  "title": "explanations",
+  "tags": [
+    {
+      "id": 1,
+      "title": "<a>",
+      "text": "This tag defines a hyperlink."
+    },
+    {
+      "id": 2,
+      "title": "<img>",
+      "text": "This tag is used to embed an image in a web page."
+    },
+    {
+      "id": 3,
+      "title": "<ul>",
+      "text": "This tag starts unordered list. Each list item starts with the <li>"
+    },
+    {
+      "id": 4,
+      "title": "<table>",
+      "text": "This tag defines an HTML table."
+    }
+  ]
+}

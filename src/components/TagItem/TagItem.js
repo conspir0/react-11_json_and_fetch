@@ -1,17 +1,17 @@
 import React from 'react';
 
 
-const NewsArticle = ({ newsData }) => {
+const TagItem = ({ tagData }) => {
   return (
     <div className="result-box">
       <h2>
-        {newsData.title}
+        {tagData.title}
       </h2>
       <p>
-        {newsData.text}
+        {tagData.text}
       </p>
     </div>
   )
 };
 
-export default NewsArticle;
+export default TagItem;
